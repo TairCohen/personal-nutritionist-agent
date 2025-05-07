@@ -1,0 +1,8 @@
+langgraph
+langchain-community
+langchain-text-splitters
+langchain
+langchain-openai
+faiss-cpu>=1.7.4
+pandas
+Pillow
